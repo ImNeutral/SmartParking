@@ -1,0 +1,33 @@
+
+table.table-drag {
+	margin: auto;
+}
+
+table.table-drag td {
+	height: 50px;
+	width: 60px;
+	text-align: center;
+}
+
+.draggable-content {
+	height: 50px;
+	width: 60px;
+}
+
+.drag-container {
+	width: 100%;
+}
+
+.bg-go {
+	background-color: #5cb85c;
+	border: 1px solid #4cae4c;
+}
+
+.glyphicon-class {
+	display: block;
+	word-wrap: break-word;
+}
+
+.buttons {
+	zoom: 1.2;
+}
